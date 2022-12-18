@@ -1,0 +1,1 @@
+Simple application that blinks a LED using ARM layered architecture drivers
